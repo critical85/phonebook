@@ -1,0 +1,33 @@
+.table-id {
+    width: 70px;
+    height: 25px;
+    padding-left: 0px;
+    background: white !important;
+    border-style: none;
+}
+
+table {
+    border: none !important;
+}
+
+thead {
+    border: none !important;
+}
+
+.table-corner {
+    border: none !important;
+}
+
+.table-del-btn {
+    border-style: none !important;
+}
+
+.table-edit-btn {
+    border-style: none !important;
+}
+
+
+
+.test {
+    width: 100px;
+}
