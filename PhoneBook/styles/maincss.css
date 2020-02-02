@@ -14,6 +14,14 @@ thead {
     border: none !important;
 }
 
+.th {
+    width: 100px !important;
+}
+
+.td {
+    width: 100px !important;
+}
+
 .table-corner {
     border: none !important;
 }
@@ -24,10 +32,4 @@ thead {
 
 .table-edit-btn {
     border-style: none !important;
-}
-
-
-
-.test {
-    width: 100px;
 }
