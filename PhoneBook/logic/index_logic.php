@@ -11,6 +11,8 @@
 
     $editmode = FALSE;
 
+    $name_edit = $number_edit = "";
+
     $idx;
 
 
@@ -30,6 +32,8 @@
 
         $editmode = TRUE;
         $idx = $_POST['id'];
+        $name_edit = $_POST['name'];
+        $number_edit = $_POST['number'];
         $contacts = show_contacts($table);
 
     }

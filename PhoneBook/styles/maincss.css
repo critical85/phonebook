@@ -1,5 +1,5 @@
 .table-id {
-    width: 70px;
+    width: auto !important;
     height: 25px;
     padding-left: 0px;
     background: white !important;
